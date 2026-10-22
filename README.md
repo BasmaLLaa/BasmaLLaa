@@ -48,7 +48,7 @@ Contributing to product API development and S3-based product image storage in a 
 - AI Engineering and intelligent agent systems
 
 ## 🤝 Let's Connect
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/basmala-elhabshy-b5069b27b/
 - Email: basmala.elhabshyyy@gmail.com
 
 ---
